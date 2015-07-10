@@ -65,17 +65,21 @@ $charles-black: #000;
   max-width: 1140px;
 }
 
+.intro{
+  background-color: $charles-red;
+  .hero{
+    background-image: url();
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    height: 530px;
+  }
 
-.hero{
-  background-color: #f2f2f2;
-  background-image: url();
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  text-align: center;
-  height: 530px;
 }
+
+
 
 .hero-content{
   position: relative;
@@ -185,12 +189,19 @@ $charles-black: #000;
 
 /*Sections*/
 
-.intro{
-  background-color: $charles-red;
-}
+
+
 .how-it-works{}
-.who-we-are{}
+
+.who-we-are{
+  background-color: $charles-orange;
+}
+
 .what-they-say{}
+
+.contact{
+  background-color: $charles-green;
+}
 
 
 /*Buffers*/
