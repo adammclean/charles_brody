@@ -59,7 +59,6 @@ $charles-black: #000;
 }
 
 
-
 .static-container{
   margin: auto;
   max-width: 1140px;
@@ -67,6 +66,7 @@ $charles-black: #000;
 
 .intro{
   background-color: $charles-red;
+  color: #fff;
   .hero{
     background-image: url();
     background-position: center center;
@@ -78,7 +78,6 @@ $charles-black: #000;
   }
 
 }
-
 
 
 .hero-content{
@@ -118,22 +117,22 @@ $charles-black: #000;
   font-style: normal;
   text-decoration: none;
   padding: 1em 1.75em;
-  background-color: #e85c41;
   display: inline-block;
   line-height: 1em;
   margin: 10px 0;
   color: #fff;
-  border: none;
+  border-radius: 60px;
+  border: 1px solid #fff;
+  
+  &hover{
+    background-color: #70212E;
+  }
 }
 
 .button-wrapper{
   text-align: center;
 }
 
-.button:hover{
-  opacity: .5;
-  background-color: red;
-}
 
 .hero-cta{
   margin-top: 35px;
@@ -195,12 +194,16 @@ $charles-black: #000;
 
 .who-we-are{
   background-color: $charles-orange;
+  color: #fff;
+  height: 355px;
 }
 
 .what-they-say{}
 
 .contact{
   background-color: $charles-green;
+  color: #fff;
+  height: 450px;
 }
 
 
@@ -228,6 +231,13 @@ $charles-black: #000;
 
 .padding-reset{
   padding: 0;
+}
+
+
+// Styling
+
+.charles-header{
+  font-size: 50px;
 }
 
 
