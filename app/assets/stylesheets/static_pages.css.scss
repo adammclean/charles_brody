@@ -1,6 +1,224 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+//$font-stack:    Helvetica, sans-serif;
+//$primary-color: #333;
+//
+//body {
+//  font: 100% $font-stack;
+//  color: $primary-color;
+//}
+
+$font-stack: Roboto;
+$charles-red: #872D3C;
+$charles-orange: #E76D51;
+$charles-green: #8AC7A5;
+$charles-grey: #872D3C;
+$charles-white: #fff;
+$charles-black: #000;
+
+
+/* media queries */
+
+@media only screen and (max-width: 640px){
+  .hero-content h1{
+    font-size: 30px;
+  }
+}
+
+
+.body{
+  font-family: $font-stack;
+  color: rgb(58, 58, 58);
+  font-size: 16px;
+}
+
+
+
+#nav-deface ul li{
+  font-size: 13px;
+  text-transform: lowercase;
+  letter-spacing: 2px;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 13px;
+  color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color:rgb(51, 51, 51);
+}
+
+#border-li{
+  border: 2px solid #000;
+}
+
+#border-li:hover{
+  opacity: .5;
+  background-color: red;
+}
+
+
+
+.static-container{
+  margin: auto;
+  max-width: 1140px;
+}
+
+
+.hero{
+  background-color: #f2f2f2;
+  background-image: url();
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  height: 530px;
+}
+
+.hero-content{
+  position: relative;
+  top: 150px;
+  vertical-align: middle;
+  z-index: 2;
+  display: inline-block;
+  zoom: 1;
+}
+
+.hero-content h1{
+  font-size: 68px;
+  line-height: 1em;
+  letter-spacing: 4px;
+  font-weight: 700;
+  font-style: normal;
+
+}
+
+.headline{
+  font-size: 50px;
+  line-height: 1em;
+  letter-spacing: 4px;
+  font-weight: 700;
+  font-style: normal;
+}
+
+#how-it-works{
+  left: 30.33333333%;
+}
+
+.button {
+  font-size: 15px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  font-style: normal;
+  text-decoration: none;
+  padding: 1em 1.75em;
+  background-color: #e85c41;
+  display: inline-block;
+  line-height: 1em;
+  margin: 10px 0;
+  color: #fff;
+  border: none;
+}
+
+.button-wrapper{
+  text-align: center;
+}
+
+.button:hover{
+  opacity: .5;
+  background-color: red;
+}
+
+.hero-cta{
+  margin-top: 35px;
+}
+
+
+#footer-nav {
+  border: 1px solid black;
+  padding-top: 10px;
+  margin-top: 40px;
+  height: 180px;
+  width: 100%;
+  background-color: #333;
+}
+
+#footer-copyright{
+  color: #fff;
+}
+
+#footer-nav-links a {
+  color: #fff;
+  padding: 10px;
+}
+
+#footer-social-icons {
+  text-transform: uppercase;
+  color: white;
+  font-size: 28px;
+}
+
+
+.col-lg-4 {
+  padding: 30px;
+}
+
+.placeholder {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+
+.col-centered{
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+
+.center{
+  text-align: center;
+}
+
+
+/*Sections*/
+
+.intro{
+  background-color: $charles-red;
+}
+.how-it-works{}
+.who-we-are{}
+.what-they-say{}
+
+
+/*Buffers*/
+
+
+.buffer-sm{
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.buffer-lg{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.buffer-xl{
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+.buffer-block-lg{
+  height: 75px;
+}
+
+.padding-reset{
+  padding: 0;
+}
+
 
 
 // Place all the styles related to the StaticPages controller here.
