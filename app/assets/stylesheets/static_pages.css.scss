@@ -98,14 +98,6 @@ $charles-black: #000;
 
 }
 
-.headline{
-  font-size: 50px;
-  line-height: 1em;
-  letter-spacing: 4px;
-  font-weight: 700;
-  font-style: normal;
-}
-
 #how-it-works{
   left: 30.33333333%;
 }
@@ -240,7 +232,14 @@ $charles-black: #000;
   font-size: 50px;
 }
 
+.charles-text{
+  font-size: 18px;
+}
 
+.charles-title{
+  font-size: 18px;
+  font-weight: bold;
+}
 
 // Place all the styles related to the StaticPages controller here.
 // They will automatically be included in application.css.
