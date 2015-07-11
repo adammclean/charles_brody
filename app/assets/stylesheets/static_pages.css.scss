@@ -35,30 +35,6 @@ $charles-black: #000;
 
 
 
-#nav-deface ul li{
-  font-size: 13px;
-  text-transform: lowercase;
-  letter-spacing: 2px;
-  font-weight: 600;
-  font-style: normal;
-  line-height: 13px;
-  color: #fff;
-}
-
-.navbar-default .navbar-nav>li>a {
-  color:rgb(51, 51, 51);
-}
-
-#border-li{
-  border: 2px solid #000;
-}
-
-#border-li:hover{
-  opacity: .5;
-  background-color: red;
-}
-
-
 .static-container{
   margin: auto;
   max-width: 1140px;
@@ -89,18 +65,13 @@ $charles-black: #000;
   zoom: 1;
 }
 
-.hero-content h1{
-  font-size: 68px;
-  line-height: 1em;
-  letter-spacing: 4px;
-  font-weight: 700;
-  font-style: normal;
-
-}
 
 #how-it-works{
   left: 30.33333333%;
 }
+
+
+//Button Styling
 
 .button {
   font-size: 15px;
@@ -126,6 +97,18 @@ $charles-black: #000;
   margin-top: 35px;
 }
 
+
+//Header and Footer Styling
+
+
+#nav-logo{
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.nav-header{
+  height: 150px;
+}
 
 #footer-nav {
   border: 1px solid black;
