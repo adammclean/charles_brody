@@ -102,8 +102,8 @@ $charles-black: #000;
 
 
 #nav-logo{
-  margin-right: auto;
-  margin-left: auto;
+ margin-left: 40%;
+ margin-top: 2.5%;
 }
 
 .nav-header{
@@ -260,6 +260,29 @@ $charles-black: #000;
     opacity: .5;
   }
 }
+
+//Brand Colors
+.red{
+  background-color: #872D3C;
+}
+.orange{
+  background-color: #E76D51;
+}
+.green{
+  background-color: #8AC7A5;
+}
+.grey{
+  background-color: #872D3C;
+}
+
+//Stripes
+.stripe{
+  width: 33%;
+  height: 10px;
+  display: inline-block;
+}
+
+
 
 // Place all the styles related to the StaticPages controller here.
 // They will automatically be included in application.css.
