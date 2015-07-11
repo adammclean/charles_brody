@@ -115,9 +115,6 @@ $charles-black: #000;
   border-radius: 60px;
   height: 50px;
 
-  &hover{
-    background-color: #6b1b1b;
-  }
 }
 
 .button-wrapper{
@@ -189,7 +186,7 @@ $charles-black: #000;
 }
 
 .what-they-say{
-  height: 475px;
+  height: 450px;
 }
 
 .contact{
@@ -217,14 +214,27 @@ $charles-black: #000;
   margin-bottom: 45px;
 }
 
-.buffer-block-lg{
-  height: 75px;
+.buffer-xxl{
+  margin-top: 90px;
+  margin-bottom: 45px;
 }
+
 
 .padding-reset{
   padding: 0;
 }
 
+.buffer-block-sm{
+  height: 35px;
+}
+
+.buffer-block-md{
+  height: 55px;
+}
+
+.buffer-block-lg{
+  height: 75px;
+}
 
 // Styling
 
@@ -261,7 +271,13 @@ $charles-black: #000;
 .button-white{
   color: #fff;
   border: 1px solid #fff;
+  a:&hover{
+    text-decoration: none;
+    background-color: #fff;
+    opacity: .5;
+  }
 }
+
 // Place all the styles related to the StaticPages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
