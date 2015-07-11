@@ -113,7 +113,8 @@ $charles-black: #000;
   line-height: 1em;
   margin: 10px 0;
   border-radius: 60px;
-  
+  height: 50px;
+
   &hover{
     background-color: #6b1b1b;
   }
@@ -179,16 +180,17 @@ $charles-black: #000;
 /*Sections*/
 
 
-
 .how-it-works{}
 
 .who-we-are{
   background-color: $charles-orange;
   color: #fff;
-  height: 355px;
+  height: 475px;
 }
 
-.what-they-say{}
+.what-they-say{
+  height: 475px;
+}
 
 .contact{
   background-color: $charles-green;
