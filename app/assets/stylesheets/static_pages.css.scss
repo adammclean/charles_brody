@@ -364,7 +364,7 @@ input[placeholder] {
 
 // Nav-logo media queries
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
   #nav-logo {
     margin-left: 40%;
     margin-top: 3%;
@@ -372,17 +372,33 @@ input[placeholder] {
 }
 
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 850px) {
   #nav-logo {
     margin-left: 30%;
-    margin-top: 4.5%;
+    margin-top: 4%;
   }
 }
+
+@media screen and (max-width: 600px) {
+  #nav-logo {
+    margin-left: 30%;
+    margin-top: 5%;
+  }
+}
+
 
 @media screen and (max-width: 450px) {
   #nav-logo {
     margin-left: 10%;
     margin-top: 6.5%;
+  }
+}
+
+// Jumbotron text media queries
+
+@media screen and (max-width: 450px) {
+  .charles-header {
+    font-size: 40px;
   }
 }
 
