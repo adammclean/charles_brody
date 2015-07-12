@@ -350,13 +350,19 @@ input[placeholder] {
   display: inline-block;
 }
 
+
+// ***************** Media Queries *****************************
+
+
+// Stripe media queries
+
 @media screen and (max-width: 850px) {
   .stripe {
     width: 30%;
   }
 }
 
-// nav-logo media queries
+// Nav-logo media queries
 
 @media screen and (max-width: 1000px) {
   #nav-logo {
@@ -377,6 +383,14 @@ input[placeholder] {
   #nav-logo {
     margin-left: 10%;
     margin-top: 6.5%;
+  }
+}
+
+
+// How-it-works media queries
+@media screen and (max-width: 750px) {
+  .div-buffer {
+    margin-bottom: 50px;
   }
 }
 
