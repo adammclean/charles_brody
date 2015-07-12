@@ -29,10 +29,10 @@
       <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6904177" vertical-offset="1807" max-vertical-offset="3150">
-              <caret line="113" column="79" selection-start-line="113" selection-start-column="79" selection-end-line="113" selection-end-column="79" />
+            <state vertical-scroll-proportion="0.5135135" vertical-offset="1123" max-vertical-offset="3204">
+              <caret line="71" column="46" selection-start-line="71" selection-start-column="46" selection-end-line="71" selection-end-column="46" />
               <folding>
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#section#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#div#1;n#section#2;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -458,7 +458,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#section#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#div#1;n#section#2;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -569,10 +569,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6904177" vertical-offset="1807" max-vertical-offset="3150">
-          <caret line="113" column="79" selection-start-line="113" selection-start-column="79" selection-end-line="113" selection-end-column="79" />
+        <state vertical-scroll-proportion="0.5135135" vertical-offset="1123" max-vertical-offset="3204">
+          <caret line="71" column="46" selection-start-line="71" selection-start-column="46" selection-end-line="71" selection-end-column="46" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#section#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#div#1;n#section#2;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
