@@ -179,7 +179,7 @@ $charles-black: #000;
 .contact{
   background-color: $charles-green;
   color: #fff;
-  height: 450px;
+  height: 675px;
 }
 
 
@@ -222,6 +222,41 @@ $charles-black: #000;
 .buffer-block-lg{
   height: 75px;
 }
+
+// Contact Form
+
+#inputName{
+  border-radius: 60px;
+  border: 1px solid #fff;
+  height: 50px;
+  width: 700px;
+  background-color: $charles-green;
+  margin-bottom: 10px;
+  margin-left: 23%;
+}
+#inputEmail{
+  border-radius: 60px;
+  border: 1px solid #fff;
+  height: 50px;
+  width: 700px;
+  background-color: $charles-green;
+  margin-bottom: 25px;
+  margin-left: 23%;
+}
+#inputFeedback{
+  border-radius: 35px;
+  border: 1px solid #fff;
+  height: 300px;
+  width: 700px;
+  background-color: $charles-green;
+  margin-left: 24%;
+}
+
+.form-deface{
+  background-color: $charles-green;
+}
+
+
 
 // Styling
 
