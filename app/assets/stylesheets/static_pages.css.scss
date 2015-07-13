@@ -181,8 +181,12 @@ $charles-black: #000;
 }
 
 .what-they-say{
-  height: 650px;
+  height: 475px;
 }
+
+
+
+
 
 .contact{
   background-color: $charles-green;
@@ -412,6 +416,19 @@ input[placeholder] {
 @media screen and (max-width: 750px) {
   .div-buffer {
     margin-bottom: 50px;
+  }
+}
+
+// What-they-say media queries
+@media screen and (max-width: 768px) {
+  .what-they-say {
+    height: 550px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .what-they-say {
+    height: 650px;
   }
 }
 
