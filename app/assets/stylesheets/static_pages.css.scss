@@ -18,6 +18,22 @@ $charles-white: #fff;
 $charles-black: #000;
 
 
+// Remove form text outline
+
+textarea:hover,
+input:hover,
+textarea:active,
+input:active,
+textarea:focus,
+input:focus,
+button:focus,
+button:active,
+button:hover
+{
+  outline:0px !important;
+  -webkit-appearance:none;
+}
+
 /* media queries */
 
 @media only screen and (max-width: 640px){
