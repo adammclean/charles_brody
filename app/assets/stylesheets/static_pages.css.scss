@@ -110,12 +110,6 @@ $charles-black: #000;
 //Header and Footer Styling
 
 
-#nav-logo{
- margin-left: 40%;
- margin-top: 2.5%;
- width: 200px;
-}
-
 .nav-header{
   height: 150px;
 }
@@ -374,35 +368,12 @@ input[placeholder] {
 
 // Nav-logo media queries
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 550px) {
   #nav-logo {
-    margin-left: 40%;
-    margin-top: 3%;
+
   }
 }
 
-
-@media screen and (max-width: 850px) {
-  #nav-logo {
-    margin-left: 30%;
-    margin-top: 4%;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  #nav-logo {
-    margin-left: 30%;
-    margin-top: 5%;
-  }
-}
-
-
-@media screen and (max-width: 450px) {
-  #nav-logo {
-    margin-left: 10%;
-    margin-top: 6.5%;
-  }
-}
 
 // Jumbotron text media queries
 
