@@ -18,7 +18,7 @@ $charles-white: #fff;
 $charles-black: #000;
 
 
-// Remove form text outline
+// Remove contact form-field text outline
 
 textarea:hover,
 input:hover,
@@ -33,6 +33,21 @@ button:hover
   outline:0px !important;
   -webkit-appearance:none;
 }
+
+// Indent contact form entry text
+
+input{
+  padding-left: 20px;
+}
+
+
+
+//textarea,
+//input,
+//button{
+//  margin-left: 5px;
+//  padding-left: 5px;
+//}
 
 /* media queries */
 
@@ -246,7 +261,7 @@ button:hover
   height: 75px;
 }
 
-// Contact Form
+// ***************** Style Contact Form *******************
 
 #inputName{
   border-radius: 60px;
@@ -281,6 +296,7 @@ button:hover
   }
 }
 
+
 // Style placeholder text
 
 ::-webkit-input-placeholder { /* WebKit browsers */
@@ -304,6 +320,29 @@ button:hover
 input[placeholder] {
   color: #fff;
 }
+
+// Remove contact form-field text outline
+
+textarea:hover,
+input:hover,
+textarea:active,
+input:active,
+textarea:focus,
+input:focus,
+button:focus,
+button:active,
+button:hover
+{
+  outline:0px !important;
+  -webkit-appearance:none;
+}
+
+// Indent contact form entry text
+
+input{
+  padding-left: 20px;
+}
+
 
 // Styling
 
