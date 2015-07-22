@@ -42,13 +42,6 @@ input{
 
 
 
-//textarea,
-//input,
-//button{
-//  margin-left: 5px;
-//  padding-left: 5px;
-//}
-
 /* media queries */
 
 @media only screen and (max-width: 640px){
@@ -140,11 +133,18 @@ input{
 
 //Header and Footer Styling
 
+.logo{
+  padding: 40px 0 0 25px;
+  position: absolute;
+}
 
 .nav-header{
   height: 150px;
 }
 
+.nav-container{
+  color: $charles-red;
+}
 #footer-nav {
   border: 1px solid black;
   padding-top: 10px;
