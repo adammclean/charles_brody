@@ -26,11 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="2940">
-              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            <state vertical-scroll-proportion="-0.38674033" vertical-offset="1665" max-vertical-offset="2925">
+              <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_footer.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="675">
+              <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -46,13 +56,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="static_pages.css.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="static_pages.css.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41860464" vertical-offset="1839" max-vertical-offset="7050">
-              <caret line="137" column="20" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
+            <state vertical-scroll-proportion="-9.254902" vertical-offset="5633" max-vertical-offset="7155">
+              <caret line="407" column="20" selection-start-line="407" selection-start-column="20" selection-end-line="407" selection-end-column="20" />
               <folding>
-                <marker date="1437587332000" expanded="true" signature="1255:1384" placeholder="{...}" />
+                <marker date="1437588216000" expanded="true" signature="1255:1384" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -87,10 +97,10 @@
         <option value="$PROJECT_DIR$/app/views/index.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_bootstrap.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/layouts/_nav.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss" />
       </list>
@@ -473,7 +483,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="3594" max-vertical-offset="7050">
           <caret line="264" column="15" selection-start-line="264" selection-start-column="15" selection-end-line="264" selection-end-column="15" />
           <folding>
-            <marker date="1437587332000" expanded="true" signature="1255:1384" placeholder="{...}" />
+            <marker date="1437588216000" expanded="true" signature="1255:1384" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -515,7 +525,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="210">
           <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
           <folding>
-            <marker date="1437587332000" expanded="true" signature="1255:1384" placeholder="{...}" />
+            <marker date="1437588216000" expanded="true" signature="1255:1384" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -557,13 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="675">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="405">
@@ -588,6 +591,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="675">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/_nav.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.5" vertical-offset="252" max-vertical-offset="810">
@@ -596,21 +607,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static_pages/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="2940">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-          <folding />
+        <state vertical-scroll-proportion="-9.254902" vertical-offset="5633" max-vertical-offset="7155">
+          <caret line="407" column="20" selection-start-line="407" selection-start-column="20" selection-end-line="407" selection-end-column="20" />
+          <folding>
+            <marker date="1437588216000" expanded="true" signature="1255:1384" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss">
+    <entry file="file://$PROJECT_DIR$/app/views/static_pages/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41860464" vertical-offset="1839" max-vertical-offset="7050">
-          <caret line="137" column="20" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
-          <folding>
-            <marker date="1437587332000" expanded="true" signature="1255:1384" placeholder="{...}" />
-          </folding>
+        <state vertical-scroll-proportion="-0.38674033" vertical-offset="1665" max-vertical-offset="2925">
+          <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="72" />
+          <folding />
         </state>
       </provider>
     </entry>
