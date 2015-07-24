@@ -69,8 +69,6 @@ input{
 }
 
 .intro{
-  background-color: $charles-red;
-  color: #fff;
   .hero{
     background-image: url();
     background-position: center center;
@@ -111,7 +109,7 @@ input{
   display: inline-block;
   line-height: 1em;
   margin: 10px 0;
-  border-radius: 60px;
+  border: 2px solid #000;
   height: 50px;
 
   &:hover{
@@ -216,6 +214,11 @@ input{
   height: 775px;
 }
 
+/* Icon styling */
+
+.icon{
+  font-size: 40px;
+}
 
 /*Buffers*/
 
