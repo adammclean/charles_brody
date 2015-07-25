@@ -111,10 +111,9 @@ input{
   margin: 10px 0;
   border: 2px solid #000;
   height: 50px;
-  background-color: #1FDA9A;
 
   &:hover{
-    opacity: .8;
+    opacity: .6;
     text-decoration: none;
   }
 }
@@ -362,7 +361,9 @@ input{
 // Styling
 
 .charles-header{
-  font-size: 50px;
+  font-size: 40px;
+  font-weight: 800;
+  color: #28ABE3;
 }
 
 .charles-text{
