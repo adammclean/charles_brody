@@ -111,12 +111,14 @@ input{
   margin: 10px 0;
   border: 2px solid #000;
   height: 50px;
+  background-color: #1FDA9A;
 
   &:hover{
     opacity: .8;
     text-decoration: none;
   }
 }
+
 
 
 .button-wrapper{
@@ -135,6 +137,11 @@ input{
   padding: 40px 0 0 40px;
   position: absolute;
   font-size: 30px;
+}
+
+#logo-icon{
+  margin-left:5px;
+  color: $charles-red;
 }
 
 .nav-header{
@@ -369,6 +376,7 @@ input{
 
 
 // Button color styles
+
 
 .button-red{
   color: $charles-red;
