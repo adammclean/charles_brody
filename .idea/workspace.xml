@@ -29,8 +29,8 @@
       <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2543021" vertical-offset="1052" max-vertical-offset="2220">
-              <caret line="79" column="48" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.6271511" vertical-offset="1502" max-vertical-offset="2235">
+              <caret line="122" column="54" selection-start-line="122" selection-start-column="54" selection-end-line="122" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#0;n#!!top" expanded="true" />
@@ -43,6 +43,7 @@
                 <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#1;n#section#2;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#2;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#section#3;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -52,8 +53,8 @@
       <file leaf-file-name="static_pages.css.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="12.0" vertical-offset="816" max-vertical-offset="8364">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state vertical-scroll-proportion="3.6666667" vertical-offset="1003" max-vertical-offset="8364">
+              <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -555,6 +556,7 @@
             <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#1;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#section#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -616,6 +618,7 @@
             <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#1;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#section#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -661,6 +664,7 @@
             <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#1;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#section#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -769,16 +773,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="12.0" vertical-offset="816" max-vertical-offset="8364">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state vertical-scroll-proportion="3.6666667" vertical-offset="1003" max-vertical-offset="8364">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2543021" vertical-offset="1052" max-vertical-offset="2220">
-          <caret line="79" column="48" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.6271511" vertical-offset="1502" max-vertical-offset="2235">
+          <caret line="122" column="54" selection-start-line="122" selection-start-column="54" selection-end-line="122" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#0;n#!!top" expanded="true" />
@@ -791,6 +795,7 @@
             <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#1;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#section#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#!!top" expanded="true" />
           </folding>
         </state>
